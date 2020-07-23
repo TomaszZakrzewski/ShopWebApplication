@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.deps.json
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\lenovo\Desktop\Projekty\CoreShopApp\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.pdb
